@@ -1,0 +1,9 @@
+sources/
+data/extracted/
+data/drive-folder.html
+data/download-response.html
+tmp/
+__pycache__/
+.env
+.venv/
+artifacts/
